@@ -30,3 +30,8 @@ To use the Drum App, simply visit [https://alanabf.github.io/drum-app/](https://
 ## Credits
 
 This project was initially based on the [30 Days of JavaScript](https://javascript30.com/) course by Wes Bos.
+
+
+## License
+
+This project is open source, under the [MIT License](LICENSE).
