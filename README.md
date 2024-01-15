@@ -2,6 +2,10 @@
 
 This is a drum kit app built with vanilla JavaScript. It was initially created as a practice project from Wes Bos's 30 Days of JavaScript course, and has since been personalized and extended.
 
+## Usage
+
+To use the Drum App, simply visit [https://alanabf.github.io/drum-app/](https://alanabf.github.io/drum-app/) and start drumming! Click the buttons or press the corresponding keys.
+
 ## Features
 
 * Play different drum sounds by pressing specific keys on your keyboard.
